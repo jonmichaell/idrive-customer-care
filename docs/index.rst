@@ -11,7 +11,7 @@ In a world where everything from our work documents to family memories lives on 
 
 
 
-.. image:: start.png
+.. image:: care.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
